@@ -13,5 +13,5 @@ The user can use the layer control to toggle the visibility of these layers on t
 The Page is able to show the combination of the three types of maps with the three information layers.
 ![Maps](https://github.com/ggalguera/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Mapping_Earthquake.png)
 
-### conclusion
+### Conclusion
 This project utilizes Mapbox's API to display a map of the world with three different base map styles: Streets, Satellite, and Dark. The user can toggle between these base maps using the built-in layer control. Additionally, the project incorporates data from the USGS on earthquakes that occurred in the past week, displaying them as circles on the map with different colors and sizes based on the magnitude of the earthquake. The project also includes data on tectonic plates and major earthquakes, which can also be toggled on and off through the layer control. This project offers a dynamic and informative visualization of recent seismic activity around the world.
